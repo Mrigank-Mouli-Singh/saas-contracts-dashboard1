@@ -81,7 +81,7 @@ Using mock or local data for now; can be swapped for an API later.
 
 SPA hosting on Netlify satisfies all deployment needs.
 
-## 🧩 Future Enhancements (Optional)
+## 🧩 Future Enhancements
 Integrate real API for live contract data.
 
 Add authentication (e.g., OAuth/JWT) if private access is needed.
