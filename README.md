@@ -5,14 +5,6 @@ The app is fully responsive, handles all key UI states, and is deployed for inst
 
 ---
 
-## 🌐 Live Demo
-[https://saas-contracts-dashboard1.netlify.app/](https://saas-contracts-dashboard1.netlify.app/)
-
-## 📂 Repository
-[https://github.com/Mrigank-Mouli-Singh/saas-contracts-dashboard1](https://github.com/Mrigank-Mouli-Singh/saas-contracts-dashboard1)
-
----
-
 ## 🧰 Tech Stack
 
 | Category | Choice | Reason |
@@ -49,10 +41,15 @@ npm run preview
 ## Deployment
 ### Netlify settings:
 
-Build command: npm run build
+Build command: 
+```
+npm run build
+```
 
-Publish directory: dist
-
+Publish directory: 
+```
+dist
+```
 Repo includes _redirects or netlify.toml to ensure proper SPA routing.
 
 ## Folder Structure
