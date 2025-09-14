@@ -46,8 +46,8 @@ npm run build
 npm run preview
 ```
 
-##Deployment
-###Netlify settings:
+## Deployment
+### Netlify settings:
 
 Build command: npm run build
 
